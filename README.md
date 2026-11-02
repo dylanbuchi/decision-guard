@@ -15,7 +15,7 @@ Tools: `get-issue-context`, `find-decisions`, `verify-quote`, `get-audit-log`. A
 Before you connect:
 
 1. Install Decision Guard on your Atlassian site (Jira and Confluence).
-2. A site admin turns on external MCP exposure for the app: Atlassian Administration > Apps > Sites > your site > Connected apps > Decision Guard > View app details.
+2. A site admin turns on external MCP exposure for the app: Atlassian Administration > Apps > Sites > your site > Connected apps > Decision Guard > View app details > turn on "Expose tools to MCP-compatible apps".
 3. Your client signs in with OAuth and only sees what your Atlassian account can see.
 
 ## Add the skill
